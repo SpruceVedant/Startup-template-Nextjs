@@ -18,7 +18,7 @@ const Hero = () => {
                 Liberate your Startup & SaaS with this Next.js Template, now free and open-source!
                 </h1>
                 <p className="mb-12 text-base font-medium !leading-relaxed text-body-color dark:text-white dark:opacity-90 sm:text-lg md:text-xl">
-                This exclusive 'Startup' Next.js template, designed for startup and SaaS business websites, offers a comprehensive set of pages, components, and sections necessary to kickstart your online presence. Crafted with Next 13.x and Tailwind CSS, it's the perfect tool to build a complete business website hassle-free.
+                This exclusive Startup Next.js template, designed for startup and SaaS business websites, offers a comprehensive set of pages, components, and sections necessary to kickstart your online presence. Crafted with Next 13.x and Tailwind CSS, its the perfect tool to build a complete business website hassle-free.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
